@@ -1,0 +1,45 @@
+body{
+    background-image: url(imagenes/fondol.jpg);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+header{
+    background:  rgb(85, 172, 28);
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    line-height: 50px;
+    color:black;
+    border-top: 10px solid rgb(73, 19, 199) ;
+    
+}
+
+ nav{
+            
+            color: white;
+ }
+               
+
+.article1{
+    text-align: center;
+    margin-left: 900px;
+}
+.article2{
+    margin-left: 100px;
+}
+.article3{
+    margin-left: 900px;
+}
+.article4{
+    margin-left: 100px;
+}
+.article5{
+    margin-left: 900px;
+}
+
+
+
+#cont{
+  
+    color:white;
+  }
